@@ -26,9 +26,9 @@ public class AppActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.appactivity);
 
-        condition = (TextView)findViewById(R.id.condition);
-        sunny = (Button)findViewById(R.id.sunny);
-        foggy = (Button)findViewById(R.id.foggy);
+        condition = findViewById(R.id.condition);
+        sunny = findViewById(R.id.sunny);
+        foggy = findViewById(R.id.foggy);
     }
 
     @Override
@@ -61,6 +61,6 @@ public class AppActivity extends AppCompatActivity {
                 conditionRef.setValue("Foggy");
             }
         });
-        
+
     }
 }
