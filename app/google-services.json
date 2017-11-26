@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977005737244",
+    "firebase_url": "https://crowdweather-23c6c.firebaseio.com",
+    "project_id": "crowdweather-23c6c",
+    "storage_bucket": "crowdweather-23c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977005737244:android:53407614ffac0ac0",
+        "android_client_info": {
+          "package_name": "terry.ho.crowdweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977005737244-p07tttfrcguj6igha7n58uachrs3aas6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "terry.ho.crowdweather",
+            "certificate_hash": "0abee9e7990a8ed65b7a2c1a7ea6b2c90f3c5291"
+          }
+        },
+        {
+          "client_id": "977005737244-0o2ek22pf5qf8cumlij4bp3al7oju4tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxY6Idrhcl2DflExP5Xb9JhNXM2-MNCL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977005737244-0o2ek22pf5qf8cumlij4bp3al7oju4tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
